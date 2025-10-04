@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Amjad</h1>
 <h3 align="center">A passionate AI engineer with strong interest in ML/AI.</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/1*dYffd-9SHPmAV9ACjumD8Q.gif">
+<img align="right" alt="coding" width="250" src="https://miro.medium.com/1*dYffd-9SHPmAV9ACjumD8Q.gif">
 
 - 🔭 I’m currently working on **RAG**
 
