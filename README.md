@@ -1,3 +1,5 @@
+![logo](https://github.com/Mahnooramjad05/Mahnooramjad05/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Mahnoor Amjad</h1>
 <h3 align="center">A passionate AI engineer with strong interest in ML/AI.</h3>
 
