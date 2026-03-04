@@ -40,6 +40,10 @@ Applied data analysis and computational techniques to process experimental datas
 
 ## 🚀 Projects
 
+### **Vision + LLM Multimodal System (Medical Report Gen)**
+Developed a production-grade multimodal system integrating **ViT/CLIP Vision Encoders** with **Mistral-7B LLMs**. Features Grad-CAM explainability, cross-modal reasoning, and autonomous structured report generation for high-stakes domains.
+**Tech Stack**: PyTorch, CLIP, Mistral, OpenCV (Grad-CAM), FastAPI.
+
 ### **MLOps Production Pipeline (Time-Series Forecasting)**
 Built a complete, production-grade MLOps system with automated retraining, drift detection (KS tests), and model versioning via **MLflow**. Scalable infrastructure designed for high-availability predictive services.
 **Tech Stack**: XGBoost, MLflow, FastAPI, Docker, SciPy.
