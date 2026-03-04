@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Summary
-AI Engineer with experience building and deploying production-ready AI systems using Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). Skilled in developing end-to-end AI pipelines, including model training, fine-tuning, evaluation, and scalable API-based deployment using Python, FastAPI, and Docker. Strong background in machine learning, deep learning, NLP, and computer vision, with practical experience in MLOps and research in AI-driven medical imaging. Passionate about building scalable, real-world AI applications.
+AI Engineer with experience building and deploying production-ready AI systems using Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). Expert in **Fine-Tuning (QLoRA/LoRA)**, **Multi-Agent Orchestration**, and building end-to-end AI pipelines, including model training, optimization, and scalable API-based deployment. Strong background in machine learning, deep learning, NLP, and computer vision, with practical experience in MLOps and research in AI-driven medical imaging. Passionate about building scalable, autonomous AI applications.
 
 ---
 
@@ -40,21 +40,25 @@ Applied data analysis and computational techniques to process experimental datas
 
 ## 🚀 Projects
 
-### **Dummy Data Generator for AI Applications**
-Developed a configurable synthetic data generation system to create anonymized tabular and text datasets for AI model training, testing, and validation. The solution supports rule-based and probabilistic data generation to mimic real-world data distributions while preserving privacy.
-**Tech Stack**: Python, Pandas, NumPy, Faker, Scikit-learn, JSON/CSV Processing.
+### **LLM Fine-Tuning Framework (Mistral-7B QLoRA)**
+Built a full end-to-end LLM fine-tuning pipeline for domain-specific instruction tuning. Optimized for memory-efficient training on 24GB GPUs using QLoRA and NF4 quantization. Deployed as a high-performance inference server with latency benchmarking.
+**Tech Stack**: Python, HuggingFace (PEFT/TRL/BitsAndBytes), PyTorch, FastAPI, Docker.
 
-### **Medical AI Chatbot (RAG-Based)**
-Developed a medical-domain chatbot using RAG and embedding-based semantic search over clinical documents to deliver accurate, context-aware responses. Deployed as a production-ready AI service with REST API and web interface.
-**Tech Stack**: Python, LLM APIs, LangChain, Vector Database, Embeddings, FastAPI, Streamlit, Docker.
+### **Advanced RAG System with Evaluation Framework**
+Launched a production-grade RAG blueprint featuring **Hybrid Search (BM25 + RRF)**, **Cross-Encoder Reranking**, and an automated observability dashboard for cost and faithfulness monitoring.
+**Tech Stack**: LangChain, FAISS, Sentence-Transformers, Streamlit, Groq/OpenAI.
 
-### **AI Personal Assistant**
-Built an LLM-powered personal AI assistant capable of understanding user intent, maintaining conversational context, and executing multi-step tasks. Deployed as an interactive AI application delivering real-time responses through a user-friendly interface.
-**Tech Stack**: Python, LLM APIs, Prompt Engineering, LangChain, FastAPI/Flask, Streamlit, REST APIs, Docker.
+### **Autonomous Multi-Agent Task Planner**
+Architected a multi-agent orchestration system where specialized agents (Planner, Researcher, Executor, Critic) collaborate autonomously to solve complex tasks with self-correction and memory integration.
+**Tech Stack**: LangGraph/Custom Orchestrator, CrewAI patterns, Pydantic, Redis.
 
-### **AI-Powered Quality Assurance (Computer Vision)**
-Implemented an AI-powered quality inspection system using computer vision to automatically detect defects and anomalies in products on manufacturing production lines.
-**Tech Stack**: Python, PyTorch/TensorFlow, OpenCV, CNN Models, NumPy, Image Processing, Docker.
+### **Medical AI Chatbot (Refactored RAG)**
+Developed an intelligent medical chatbot capable of retrieving accurate, context-aware responses using Retrieval-Augmented Generation. Integrated Hugging Face embeddings with Pinecone for global-scale semantic search.
+**Tech Stack**: Python, LangChain, Pinecone, FastAPI, Docker.
+
+### **Financial Risk & Sentiment Forecasting**
+Integrated interactive dashboard for stock trend prediction using sentiment analysis and ensemble deep learning models (ARIMA, LSTM, XGBoost).
+**Tech Stack**: Python, XGBoost, Scikit-learn, Streamlit.
 
 ---
 
