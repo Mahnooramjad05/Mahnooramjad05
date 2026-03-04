@@ -40,6 +40,10 @@ Applied data analysis and computational techniques to process experimental datas
 
 ## 🚀 Projects
 
+### **MLOps Production Pipeline (Time-Series Forecasting)**
+Built a complete, production-grade MLOps system with automated retraining, drift detection (KS tests), and model versioning via **MLflow**. Scalable infrastructure designed for high-availability predictive services.
+**Tech Stack**: XGBoost, MLflow, FastAPI, Docker, SciPy.
+
 ### **LLM Fine-Tuning Framework (Mistral-7B QLoRA)**
 Built a full end-to-end LLM fine-tuning pipeline for domain-specific instruction tuning. Optimized for memory-efficient training on 24GB GPUs using QLoRA and NF4 quantization. Deployed as a high-performance inference server with latency benchmarking.
 **Tech Stack**: Python, HuggingFace (PEFT/TRL/BitsAndBytes), PyTorch, FastAPI, Docker.
