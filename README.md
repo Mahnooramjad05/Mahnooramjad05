@@ -1,70 +1,74 @@
 # Mahnoor Amjad
-### AI/ML ENGINEER
+### AI ENGINEER | GENERATIVE AI | LLMS | RAG | MLOPS
 
 #### 📧 [mahnooramjad594@gmail.com](mailto:mahnooramjad594@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahnooramjad0508) | 🐱 [GitHub](https://github.com/Mahnooramjad05)
 
 ---
 
 ## 📝 Summary
-Data Analyst & AI/ML Engineer with a strong mathematics foundation and proven experience in time series forecasting, predictive analytics, and data-driven decision making. Skilled in leveraging statistical models (ARIMA, LSTM, XGBoost) and advanced data visualization to deliver accurate demand predictions and actionable business insights. Adept at collaborating with cross-functional teams, optimizing inventory planning, and aligning forecasts with organizational goals.
+AI Engineer with experience building and deploying production-ready AI systems using Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). Skilled in developing end-to-end AI pipelines, including model training, fine-tuning, evaluation, and scalable API-based deployment using Python, FastAPI, and Docker. Strong background in machine learning, deep learning, NLP, and computer vision, with practical experience in MLOps and research in AI-driven medical imaging. Passionate about building scalable, real-world AI applications.
 
 ---
 
-## 🧪 Skills
-- **Machine Learning & Deep Learning**: Supervised/Unsupervised Learning, Neural Networks (DNN, CNN, RNN, LSTM, GRU, Transformers), Computer Vision, NLP, Time Series Forecasting, Feature Engineering, Model Optimization, Transfer Learning.
-- **Programming & Frameworks**: Python, SQL, TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, LightGBM, OpenCV, NumPy, Pandas, Matplotlib, Seaborn.
-- **Data Science & Analytics**: Data Preprocessing, Statistical Analysis, Data Visualization, Model Evaluation (MAE, RMSE, F1-score, ROC-AUC), Handling Missing/Imbalanced Data, Cross-Validation, Pipeline Development.
-- **Tools & Platforms**: Git/GitHub, Jupyter Notebook, VS Code, Streamlit, Dash, Flask, FastAPI, Docker (basic), TensorBoard, Excel, Power BI.
-- **Mathematical Foundations**: Linear Algebra, Probability & Statistics, Optimization, Gradient Descent, Activation & Loss Functions.
+## 🛠️ Skills
+
+- **AI Application & GenAI Development**: LLM-based Applications, AI Chatbots & Assistants, Retrieval-Augmented Generation (RAG), Prompt Engineering & Prompt Optimization, Multimodal AI (Text + Vision), Model Inference, Integration & Evaluation.
+- **Data & MLOps Foundations**: Data Pipelines & Feature Engineering, Model Training, Fine-Tuning & Inference, Model Evaluation (F1, ROC-AUC, RMSE), Experiment Tracking & Reproducibility, Handling Imbalanced & Large-Scale Data.
+- **Machine Learning & Deep Learning**: Supervised & Unsupervised Learning, Deep Neural Networks (DNN, CNN, RNN, LSTM, GRU), Transformer Models, NLP & Computer Vision, Time Series Forecasting, Transfer Learning & Fine-Tuning.
+- **Deployment, Cloud & DevOps**: Docker, Containerized AI Applications, Microsoft Azure App Service, Azure AKS, OpenShift, VPS, IIS, Vercel, Netlify, GitHub, GitLab CI/CD, Google Play Console, Microsoft App Center.
+- **Mathematics & Core Foundations**: Linear Algebra, Probability & Statistics, Optimization Techniques, Gradient Descent, Activation & Loss Functions.
 
 ---
 
 ## 💼 Professional Experience
 
-### **Data Analyst** | *Dec 2025 - Present*
-Responsibilities include data analysis, synthetic and anonymized data generation, and supporting Agentic AI systems for intelligent automation. Actively involved in application development, data pipeline design, model integration, and deployment, ensuring scalable, privacy-compliant, and production-ready solutions aligned with business requirements.
+### **AI Engineer** | *Dec 2024 - Present*
+- Built and deployed end-to-end AI applications, including data pipelines, model training, fine-tuning, inference, and user-facing integration.
+- Developed LLM-powered chatbots and RAG systems, applying prompt engineering to improve accuracy, contextual understanding, and response quality.
+- Implemented multimodal AI solutions combining text and image inputs using deep learning and transformer-based models.
+- Exposed trained ML/DL models through RESTful APIs using Flask and FastAPI, and built interactive interfaces with Streamlit and Dash.
+- Deployed and scaled AI applications using Docker, Azure App Service, Azure AKS, OpenShift, Vercel, Netlify, VPS, and IIS.
+- Managed version control and automated deployments using GitHub and GitLab CI/CD, with application releases via Google Play Console and Microsoft App Center.
 
 ### **Research Assistant – CheXpert Medical Imaging Project** | *Aug 2025 - Present*
 Working on a deep learning research project using the CheXpert chest X-ray dataset. Focused on developing and validating models for multi-label chest pathology detection, applying advanced computer vision and deep learning techniques to improve medical image analysis and support clinical decision-making.
 
-### **Data Analyst** | *Dec 2024 - Aug 2025*
-Designed and deployed time series forecasting models for operational and sales predictions, improving forecast accuracy and inventory decisions. Extracted and analyzed large datasets to identify demand patterns, seasonal trends, and business drivers.
+### **Research Experience at Namal Research Center** | *Jan 2023 - Aug 2024*
+Applied data analysis and computational techniques to process experimental datasets, strengthening skills in statistical modeling and data-driven research. Used Python-based analysis and mathematical modeling to extract patterns and insights, supporting research workflows relevant to machine learning applications.
 
 ---
 
 ## 🚀 Projects
 
-### **Integrating Exogenous News Sentiment and Macroeconomic Indicators into Financial Risk Forecasting**
-Developed an advanced financial risk forecasting pipeline by combining structured financial data with sentiment scores extracted from real-time news feeds and macroeconomic indicators. Applied feature engineering and predictive modeling (XGBoost, Random Forest, ARIMA) to enhance forecast accuracy and support proactive risk management.
+### **Dummy Data Generator for AI Applications**
+Developed a configurable synthetic data generation system to create anonymized tabular and text datasets for AI model training, testing, and validation. The solution supports rule-based and probabilistic data generation to mimic real-world data distributions while preserving privacy.
+**Tech Stack**: Python, Pandas, NumPy, Faker, Scikit-learn, JSON/CSV Processing.
 
-### **Real-Time Birth-Rate Forecasting Dashboard for Scotland**
-Designed and deployed an interactive dashboard to forecast birth rates using time-series models enriched with demographic, economic, and policy data. Implemented real-time updates and visual analytics to assist policymakers in planning healthcare and resource allocation.
+### **Medical AI Chatbot (RAG-Based)**
+Developed a medical-domain chatbot using RAG and embedding-based semantic search over clinical documents to deliver accurate, context-aware responses. Deployed as a production-ready AI service with REST API and web interface.
+**Tech Stack**: Python, LLM APIs, LangChain, Vector Database, Embeddings, FastAPI, Streamlit, Docker.
 
-### **Solar Production & Load Prediction**
-Built LSTM/XGBoost models for forecasting photovoltaic generation and user load at 10-minute intervals; achieved high predictive accuracy in competition settings.
+### **AI Personal Assistant**
+Built an LLM-powered personal AI assistant capable of understanding user intent, maintaining conversational context, and executing multi-step tasks. Deployed as an interactive AI application delivering real-time responses through a user-friendly interface.
+**Tech Stack**: Python, LLM APIs, Prompt Engineering, LangChain, FastAPI/Flask, Streamlit, REST APIs, Docker.
 
-### **Medical Chatbot (RAG)**
-Developed an intelligent medical chatbot capable of retrieving accurate, context-aware responses using Retrieval-Augmented Generation (RAG). Integrated Hugging Face embeddings with Pinecone Vector Store for semantic search and used Groq’s LLaMA-3.1 model for natural language understanding.
-
----
-
-## 📚 Publications
-1. **Ab initio insight into the physical properties of MgXH3 (X = Co, Cu, Ni)** lead-free perovskite for hydrogen storage application.
-2. **A DFT study of structural, electronic, mechanical, phonon, thermodynamic, and H2 storage properties** of lead-free perovskite hydride MgXH3(X=Cr, Fe, Mn).
-3. **Hydrogen Storage Capacity of Lead‐Free Perovskite NaMTH3 (MT=Sc, Ti, V)**: A DFT Study.
+### **AI-Powered Quality Assurance (Computer Vision)**
+Implemented an AI-powered quality inspection system using computer vision to automatically detect defects and anomalies in products on manufacturing production lines.
+**Tech Stack**: Python, PyTorch/TensorFlow, OpenCV, CNN Models, NumPy, Image Processing, Docker.
 
 ---
 
 ## 🎓 Education
 - **MS Data Science** | Air University Islamabad | *2025 - Ongoing*
 - **BS Mathematics** | Namal University Mianwali | *2020 - 2024*
+- **Deep Neural Network Bootcamp** | GIK Institute Swabi, Pakistan | *June 2024 - Aug 2024*
 
 ---
 
-## 🏅 Achievements & Certificates
-- Advanced AI Boot Camp on Deep Neural Networks (DNNs) – GIKI in collaboration with SkyElectric & SkyLabs.
-- Time Series Analysis & Forecasting – By Coursera.
-- National Mathematics Competition – Organized by IBA Sukkur.
+## 📚 Publications
+1. **View-Aware Design for Efficient Deep Learning in Chest X-Ray Interpretation**: Proposed a deployment strategy for chest X-ray AI by stratifying CheXpert into frontal and lateral views.
+2. **A DFT study of structural, electronic, mechanical, phonon, thermodynamic, and H2 storage properties** of lead-free perovskite hydride MgXH3(X=Cr, Fe, Mn).
+3. **Hydrogen Storage Capacity of Lead-Free Perovskite NaMTH3 (MT=Sc, Ti, V)**: A DFT Study.
 
 ---
 
