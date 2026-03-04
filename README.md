@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Summary
-AI Engineer with experience building and deploying production-ready AI systems using Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). Expert in **Fine-Tuning (QLoRA/LoRA)**, **Multi-Agent Orchestration**, and building end-to-end AI pipelines, including model training, optimization, and scalable API-based deployment. Strong background in machine learning, deep learning, NLP, and computer vision, with practical experience in MLOps and research in AI-driven medical imaging. Passionate about building scalable, autonomous AI applications.
+AI Engineer with experience building and deploying production-ready AI systems using Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). Expert in **Fine-Tuning (QLoRA/LoRA)**, **Multi-Agent Orchestration**, and **AI Observability & Reliability**. Skilled in building end-to-end AI pipelines with robust monitoring for cost, hallucination, and performance. Passionate about building scalable, accurate, and cost-efficient autonomous AI systems.
 
 ---
 
@@ -39,6 +39,10 @@ Applied data analysis and computational techniques to process experimental datas
 ---
 
 ## 🚀 Projects
+
+### **AI Observability & Reliability Dashboard**
+Architected a production-grade observability platform for monitoring LLM systems. Tracks prompt versions, token/cost efficiency, real-time hallucination rates, and P95 latency with automated LLM-as-Judge evaluation.
+**Tech Stack**: FastAPI, PostgreSQL, Streamlit, Plotly, SQLAlchemy.
 
 ### **Vision + LLM Multimodal System (Medical Report Gen)**
 Developed a production-grade multimodal system integrating **ViT/CLIP Vision Encoders** with **Mistral-7B LLMs**. Features Grad-CAM explainability, cross-modal reasoning, and autonomous structured report generation for high-stakes domains.
