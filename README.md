@@ -1,64 +1,70 @@
-![logo](https://raw.githubusercontent.com/Mahnooramjad05/Mahnooramjad05/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Mahnoor Amjad</h1>
-<h3 align="center">AI & ML Engineer | MS Data Science | Research Assistant</h3>
+# Mahnoor Amjad
+### AI/ML ENGINEER
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 🛠️ Professional Summary
-I am a dedicated **AI/ML Engineer** with a deep specialization in **Retrieval-Augmented Generation (RAG)** and **Agentic Systems**. Currently pursuing an **MS in Data Science** at Air University, I have spent the last three years bridgeening the gap between advanced research and production-grade software deployment. 
-
-From analyzing complex medical images on the **CheXpert Chest X-ray** project to implementing multi-agent research systems, my work is driven by high precision and observability.
-
-- 🔭 **Expertise**: RAG Architecture, Multi-Agent Orchestration (CrewAI), Time-Series Forecasting.
-- 🌱 **Current Projects**: Automated LLM evaluation frameworks and hallucination detection.
-- 👯 **Open to Collaboration**: On enterprise AI solutions and open-source generative AI frameworks.
-- 📫 **Reach Me**: [mahnooramjad594@gmail.com](mailto:mahnooramjad594@gmail.com)
-- 📄 **Full Experience**: [LinkedIn](https://www.linkedin.com/in/mahnooramjad0508)
+#### 📧 [mahnooramjad594@gmail.com](mailto:mahnooramjad594@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahnooramjad0508) | 🐱 [GitHub](https://github.com/Mahnooramjad05)
 
 ---
 
-### 🎨 Key Skills & Expertise
-
-| Domain | Technolgies & Frameworks |
-| :--- | :--- |
-| **Generative AI** | LangChain, CrewAI, Agentic Workflows, Hybrid Search (BM25 + RRF), Vector DBs (FAISS, Pinecone) |
-| **Deep Learning** | CNN (Medical Imaging), RNN, LSTM, GRU, Transformers, Computer Vision |
-| **Data Analytics** | Pandas, NumPy, SQL, Feature Engineering, Metric Tracking, Data Pipeline Design |
-| **MLOps & API** | FastAPI, Streamlit, Docker, Flask, Git/GitHub, CI/CD |
-| **Mathematical Foundation** | Linear Algebra, Probability & Statistics, Optimization Theory |
+## 📝 Summary
+Data Analyst & AI/ML Engineer with a strong mathematics foundation and proven experience in time series forecasting, predictive analytics, and data-driven decision making. Skilled in leveraging statistical models (ARIMA, LSTM, XGBoost) and advanced data visualization to deliver accurate demand predictions and actionable business insights. Adept at collaborating with cross-functional teams, optimizing inventory planning, and aligning forecasts with organizational goals.
 
 ---
 
-### 🌟 Featured AI Engineering Projects
-
-#### 🔥 [Advanced RAG System with Evaluation Framework](https://github.com/Mahnooramjad05/Advanced-RAG-System)
-A production-grade blueprint featuring **Hybrid Retrieval**, **Cross-Encoder Reranking**, and an automated monitoring dashboard for faithfulness and cost control.
-
-#### 🧠 [Agentic-AI: Autonomous Medical Researcher](https://github.com/Mahnooramjad05/Agentic-AI-Workshop)
-A multi-agent system built with **CrewAI** and **Groq** to collaborate on synthesizing medical insights from raw research data.
-
-#### 💰 [Financial Risk & Sentiment Forecasting](https://github.com/Mahnooramjad05/Financial-risk-Forecasting)
-Integrated interactive dashboard for stock trend prediction using sentiment analysis and ensemble deep learning models (ARIMA, LSTM, XGBoost).
+## 🧪 Skills
+- **Machine Learning & Deep Learning**: Supervised/Unsupervised Learning, Neural Networks (DNN, CNN, RNN, LSTM, GRU, Transformers), Computer Vision, NLP, Time Series Forecasting, Feature Engineering, Model Optimization, Transfer Learning.
+- **Programming & Frameworks**: Python, SQL, TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, LightGBM, OpenCV, NumPy, Pandas, Matplotlib, Seaborn.
+- **Data Science & Analytics**: Data Preprocessing, Statistical Analysis, Data Visualization, Model Evaluation (MAE, RMSE, F1-score, ROC-AUC), Handling Missing/Imbalanced Data, Cross-Validation, Pipeline Development.
+- **Tools & Platforms**: Git/GitHub, Jupyter Notebook, VS Code, Streamlit, Dash, Flask, FastAPI, Docker (basic), TensorBoard, Excel, Power BI.
+- **Mathematical Foundations**: Linear Algebra, Probability & Statistics, Optimization, Gradient Descent, Activation & Loss Functions.
 
 ---
 
-### 🔬 Research Assistantships & Publications
-- **Research Assistant**: **CheXpert Medical Imaging Project** (Developing multi-label pathology detection models).
-- **Researcher (NAMAL)**: Published **3 peer-reviewed articles** on the physical and thermal properties of hydrogen storage materials using Density Functional Theory (DFT).
+## 💼 Professional Experience
+
+### **Data Analyst** | *Dec 2025 - Present*
+Responsibilities include data analysis, synthetic and anonymized data generation, and supporting Agentic AI systems for intelligent automation. Actively involved in application development, data pipeline design, model integration, and deployment, ensuring scalable, privacy-compliant, and production-ready solutions aligned with business requirements.
+
+### **Research Assistant – CheXpert Medical Imaging Project** | *Aug 2025 - Present*
+Working on a deep learning research project using the CheXpert chest X-ray dataset. Focused on developing and validating models for multi-label chest pathology detection, applying advanced computer vision and deep learning techniques to improve medical image analysis and support clinical decision-making.
+
+### **Data Analyst** | *Dec 2024 - Aug 2025*
+Designed and deployed time series forecasting models for operational and sales predictions, improving forecast accuracy and inventory decisions. Extracted and analyzed large datasets to identify demand patterns, seasonal trends, and business drivers.
 
 ---
 
-### 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahnooramjad05&theme=radical&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahnooramjad05&theme=radical&layout=compact" height="150" />
-</p>
+## 🚀 Projects
+
+### **Integrating Exogenous News Sentiment and Macroeconomic Indicators into Financial Risk Forecasting**
+Developed an advanced financial risk forecasting pipeline by combining structured financial data with sentiment scores extracted from real-time news feeds and macroeconomic indicators. Applied feature engineering and predictive modeling (XGBoost, Random Forest, ARIMA) to enhance forecast accuracy and support proactive risk management.
+
+### **Real-Time Birth-Rate Forecasting Dashboard for Scotland**
+Designed and deployed an interactive dashboard to forecast birth rates using time-series models enriched with demographic, economic, and policy data. Implemented real-time updates and visual analytics to assist policymakers in planning healthcare and resource allocation.
+
+### **Solar Production & Load Prediction**
+Built LSTM/XGBoost models for forecasting photovoltaic generation and user load at 10-minute intervals; achieved high predictive accuracy in competition settings.
+
+### **Medical Chatbot (RAG)**
+Developed an intelligent medical chatbot capable of retrieving accurate, context-aware responses using Retrieval-Augmented Generation (RAG). Integrated Hugging Face embeddings with Pinecone Vector Store for semantic search and used Groq’s LLaMA-3.1 model for natural language understanding.
+
+---
+
+## 📚 Publications
+1. **Ab initio insight into the physical properties of MgXH3 (X = Co, Cu, Ni)** lead-free perovskite for hydrogen storage application.
+2. **A DFT study of structural, electronic, mechanical, phonon, thermodynamic, and H2 storage properties** of lead-free perovskite hydride MgXH3(X=Cr, Fe, Mn).
+3. **Hydrogen Storage Capacity of Lead‐Free Perovskite NaMTH3 (MT=Sc, Ti, V)**: A DFT Study.
+
+---
+
+## 🎓 Education
+- **MS Data Science** | Air University Islamabad | *2025 - Ongoing*
+- **BS Mathematics** | Namal University Mianwali | *2020 - 2024*
+
+---
+
+## 🏅 Achievements & Certificates
+- Advanced AI Boot Camp on Deep Neural Networks (DNNs) – GIKI in collaboration with SkyElectric & SkyLabs.
+- Time Series Analysis & Forecasting – By Coursera.
+- National Mathematics Competition – Organized by IBA Sukkur.
 
 ---
 
