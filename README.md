@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Summary
-AI Engineer with experience building and deploying production-ready AI systems using Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). Expert in **Fine-Tuning (QLoRA/LoRA)**, **Multi-Agent Orchestration**, and **AI Observability & Reliability**. Skilled in building end-to-end AI pipelines with robust monitoring for cost, hallucination, and performance. Passionate about building scalable, accurate, and cost-efficient autonomous AI systems.
+AI Engineer & Architect with experience building and deploying production-ready AI systems using Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). Expert in **AI System Design**, **Multi-Agent Orchestration**, and **Enterprise-Scale Infrastructure**. Skilled in developing robust, secure, and cost-efficient AI pipelines with a focus on reliability, scalability, and corporate-grade deployment (RBAC, Multi-Tenancy). Passionate about bridging research and production.
 
 ---
 
@@ -39,6 +39,14 @@ Applied data analysis and computational techniques to process experimental datas
 ---
 
 ## 🚀 Projects
+
+### **Enterprise AI Document Intelligence Platform**
+Architected a multi-tenant AI platform for automated contract analysis and risk assessment. Features include **Role-Based Access Control (RBAC)**, **logical tenant isolation**, rate-limiting, and structured audit logging for corporate-grade security.
+**Tech Stack**: FastAPI, PostgreSQL, Tesseract/ViT, Docker, Kubernetes Readiness.
+
+### **AI System Design Patterns Repository**
+A master curation of architectural blueprints for **Advanced RAG**, **Multi-Agent Orchestration**, **Scalable Inference**, and **LLM Cost Optimization**. Includes trade-off analysis for vector databases and production-ready K8s deployment patterns.
+**Tech Stack**: Mermaid.js, Technical Architecture, System Design.
 
 ### **AI Observability & Reliability Dashboard**
 Architected a production-grade observability platform for monitoring LLM systems. Tracks prompt versions, token/cost efficiency, real-time hallucination rates, and P95 latency with automated LLM-as-Judge evaluation.
